@@ -1,9 +1,9 @@
-# MelanomaSkinCancerDetection_CNN
-Skin Cancer detection from images  using CNN, Tensorflow 
 
 
-# Project Name
+
+# Project Name - Melanoma Skin Cancer Detection using CNN
 ##  Optimizing Multiclass Image Classification with Custom CNNs in TensorFlow
+- Skin Cancer detection from images  using CNN, Tensorflow 
 - This repository contains the code for detecting melanoma using a Convolutional Neural Network (CNN) and TensorFlow with GPU acceleration. The model is trained on a dataset of skin lesion images to classify them as either melanoma or benign.
 
 ## Table of Contents
